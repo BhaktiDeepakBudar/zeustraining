@@ -1,0 +1,65 @@
+body {
+    margin-top: 300px;
+    margin-left: 550px;
+}
+
+.w3-container {
+    height: 138px;
+    width: 457px;
+    margin: 4px;
+}
+
+#pic {
+    height: 130px;
+    width: 130px;
+    float: left;
+    margin-right: 14px;
+}
+
+.username {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.tweet {
+    margin-top: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.column {
+    float: left;
+}
+
+#comment {
+    margin-top: 24px;
+    height: 20px;
+    width: 20px;
+    margin-right: 14px;
+}
+
+#retweet {
+    margin-top: 24px;
+    height: 20px;
+    width: 20px;
+    margin-right: 14px;
+}
+
+#heart {
+    margin-top: 24px;
+    height: 20px;
+    width: 20px;
+    margin-right: 14px;
+}
+
+.column p {
+    margin-top: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    font-size: 15px;
+    color: #858991;
+    margin-right: 24px;
+}
